@@ -92,3 +92,4 @@
 (prelude-require-package 'atom-one-dark-theme)
 (prelude-require-package 'lsp-mode)
 (prelude-require-package 'doom-themes)
+(prelude-require-package 'rspec-mode)
